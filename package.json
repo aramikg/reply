@@ -11,6 +11,6 @@
     },
     "repository": {
       "type": "git",
-      "url": "git://github.com/aramikg/reply.git"
+      "url": "git@github.com:aramikg/reply.git"
     }
 }
