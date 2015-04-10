@@ -2,15 +2,13 @@
     "name" : "reply",
     "description" : "Reply App Server",
     "author" : "Aramik <a.mik@me.com>",
+    "version" : "0.0.1",
+    "private" : true,
     "dependencies": {
       "colors" : "*",
       "express" : "4.12.3",
       "mongodb" : "2.0.27",
       "sails" : "0.11.0",
       "sails-mongo" : "0.10.6"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:aramikg/reply.git"
     }
 }
