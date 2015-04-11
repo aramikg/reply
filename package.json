@@ -1,24 +1,22 @@
 {
   "name": "reply",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Reply App Server",
   "main": "index.js",
-  "dependencies": {
-    "colors": "^1.0.3",
-    "sails": "^0.11.0",
-    "mongodb": "^2.0.27",
-    "sails-mongo": "^0.10.6",
-    "express": "^4.12.3"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "colors" : "^1.0.3",
+    "mongodb" : "^2.0.27",
+    "express" : "^4.12.3",
+    "sails-mongo" : "^0.10.6"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/aramikg/reply.git"
   },
-  "author": "Aramik <a.mik@me.com>",
+  "author": "@aramikg",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aramikg/reply/issues"
