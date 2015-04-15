@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://104.236.190.164:1337/app/golf-access.ipa</string>
+					<string>https://www.dropbox.com/s/wbhc4mte0281uxn/golf-access.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://104.236.190.164:1337/app/golf-access.ipa</string>
+					<string>https://www.dropbox.com/s/wbhc4mte0281uxn/golf-access.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
